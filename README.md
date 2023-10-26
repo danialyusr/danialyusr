@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @danialyusr
 - 👀 I’m interested in video games and latest technology
-- 🌱 I’m currently learning web developing skill
+- 🌱 I’m currently learning software development and machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can email me at danialyusr@gmail.com
 
 <!---
 danialyusr/danialyusr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
