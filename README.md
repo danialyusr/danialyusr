@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danialyusr
 - 👀 I’m interested in video games and latest technology
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to an opportunity to pursue my career goal
+- 💞️ I’m looking forward to an opportunity to pursue my career goal
 - 📫 You can email me at danialyusr@gmail.com
 
 <!---
